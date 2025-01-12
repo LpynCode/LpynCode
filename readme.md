@@ -7,7 +7,7 @@
 I am a JavaScript Engineer
 
 - Main Stack: React/Node.js/TypeScript
-- Place of Work: Kspersky Lab
+- Place of Work: Kaspersky Lab
 
 ### :zap: Connect with me:
   <a href="https://t.me/http_status_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/shbov/shbov/main/telegram.svg" alt="shbov" height="30" width="40" /></a>
