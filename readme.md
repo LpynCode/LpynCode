@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div><p align="left">![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=LpynCode)</p></div>
+<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=LpynCode&label=Profile%20views&color=0e75b6&style=flat" alt="shove" /> </p></div>
 
 ### :speech_balloon: About Me :
 
